@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tom\\Documents\\C-sharp-HomeWork\\Lesson01\\Lesson01.csproj": {}
+    "C:\\Users\\Tom\\Documents\\C-sharp-HomeWork\\lesson01\\Lesson01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tom\\Documents\\C-sharp-HomeWork\\Lesson01\\Lesson01.csproj": {
+    "C:\\Users\\Tom\\Documents\\C-sharp-HomeWork\\lesson01\\Lesson01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tom\\Documents\\C-sharp-HomeWork\\Lesson01\\Lesson01.csproj",
+        "projectUniqueName": "C:\\Users\\Tom\\Documents\\C-sharp-HomeWork\\lesson01\\Lesson01.csproj",
         "projectName": "Lesson01",
-        "projectPath": "C:\\Users\\Tom\\Documents\\C-sharp-HomeWork\\Lesson01\\Lesson01.csproj",
+        "projectPath": "C:\\Users\\Tom\\Documents\\C-sharp-HomeWork\\lesson01\\Lesson01.csproj",
         "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tom\\Documents\\C-sharp-HomeWork\\Lesson01\\obj\\",
+        "outputPath": "C:\\Users\\Tom\\Documents\\C-sharp-HomeWork\\lesson01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config"
